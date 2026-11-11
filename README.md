@@ -1,2 +1,1 @@
-# dota2gametracker
-cuddly-octo-goggles
+IGNORE THIS README, VIEW OTHER :)
